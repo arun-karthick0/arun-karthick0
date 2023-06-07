@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **MERN**
 
+- check my <a href="https://arun1-dev.netlify.app">portfolio<a>
+
 - 📫 How to reach me **arunmurali0810@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
